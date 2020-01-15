@@ -1,0 +1,9 @@
+h1 {
+  color: pink;
+  text-align: center;
+  padding: 12px;
+  width: 45%;
+  margin: auto;
+  border: 5px solid black;
+  border-radius: 20px;
+}
