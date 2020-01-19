@@ -6,7 +6,11 @@ h1 {
   margin: auto;
   border: 5px solid black;
   border-radius: 20px;
+<<<<<<< HEAD
   color: blue;
+=======
+  color: red;
+>>>>>>> feature/v4
 }
 
 p {
