@@ -6,6 +6,7 @@ h1 {
   margin: auto;
   border: 5px solid black;
   border-radius: 20px;
+  color: red;
 }
 
 p {
